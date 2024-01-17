@@ -1,4 +1,4 @@
-# EcoJourney
+# Smoggle Maps
 A DeltaHacks X submission.
 
 ## About
